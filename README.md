@@ -2,6 +2,9 @@
 
 movie example project using BloC pattern with testing
 
+# Demo
+![demo](demo/demo_bloc_flutter_movies.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
