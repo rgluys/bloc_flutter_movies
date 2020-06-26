@@ -1,9 +1,10 @@
 # movies
 
-movie example project using BloC pattern with testing
+movie example project written in Dart using BloC pattern with testing
 
 # Demo
-![demo](demo/demo_bloc_flutter_movies.gif)
+
+![](demo/demo_bloc_flutter_movies.gif)
 
 ## Getting Started
 
