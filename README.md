@@ -1,6 +1,6 @@
-# movies
+# Movies
 
-movie example project written in Dart using BloC pattern with testing
+Movie app project written in Dart using BloC pattern, API calls, a repository, and testing.
 
 # Demo
 
