@@ -1,4 +1,4 @@
-# movies
+# Movies
 
 movie example mobile application project using BloC design pattern.
 
