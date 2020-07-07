@@ -1,6 +1,6 @@
 # movies
 
-movie example project using BloC pattern with testing
+movie example mobile application project using BloC design pattern.
 
 # Demo
 ![demo](demo/demo_bloc_flutter_movies.gif)
