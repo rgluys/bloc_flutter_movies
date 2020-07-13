@@ -6,7 +6,10 @@ import '../models/trailer_model.dart';
 
 class MovieApiProvider {
   Client client = Client();
-  //Get API Key from here: https://www.themoviedb.org/settings/api
+  // Get API Key from here: https://www.themoviedb.org/settings/api
+  // Always store your API key in a secure file storage solution and not in code.
+  // Flutter secure storage has not been implemented yet.
+  // TODO: Implement secure API Key storage. See: https://pub.dev/packages/flutter_secure_storage#-readme-tab-
   final _apiKey = 'ApiKeyHere';
   final _baseUrl = "http://api.themoviedb.org/3/movie";
 
