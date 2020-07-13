@@ -1,6 +1,6 @@
 # Movies
 
-Movie app project written in Dart using BloC pattern, API calls, a repository, and testing.
+Android Studio movie app project written in Dart using BloC pattern, API calls, a repository, and testing.
 
 # Demo
 
