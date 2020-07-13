@@ -2,6 +2,21 @@
 
 Movie app project written in Dart using BloC pattern, API calls, a repository, and testing.
 
+# Bloc Architecture
+
+High-level representation of the futures and streams architecture.
+
+Reference links:
+- [Dart:core Library](https://api.dart.dev/stable/2.7.2/dart-core/dart-core-library.html)
+- [https://dart.dev/codelabs/async-await](https://dart.dev/codelabs/async-await)
+- [https://api.dart.dev/stable/2.7.2/dart-async/Stream-class.html](https://api.dart.dev/stable/2.7.2/dart-async/Stream-class.html)
+
+
+![bloc_architecture](demo/dart_sf_architecture.png)
+
+High-level representation of bloc design using Pseudocode
+![Movie Api Bloc Arc](demo/Movie_api_bloc_arc.png)
+
 # Demo
 
 ![](demo/demo_bloc_flutter_movies.gif)
