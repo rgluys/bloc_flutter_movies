@@ -2,6 +2,10 @@
 
 Movie app project written in Dart using BloC pattern, API calls, a repository, and testing.
 
+# Demo
+
+![](demo/demo_bloc_flutter_movies.gif)
+
 # Bloc Architecture
 
 High-level representation of the futures and streams architecture.
@@ -17,9 +21,6 @@ Reference links:
 High-level representation of bloc design using Pseudocode
 ![Movie Api Bloc Arc](demo/Movie_api_bloc_arc.png)
 
-# Demo
-
-![](demo/demo_bloc_flutter_movies.gif)
 
 ## Getting Started
 
